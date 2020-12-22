@@ -22,30 +22,13 @@ Création de la page Home
 
 L'api affiche pour le moment à la racine ('/') le tableau des films. Il y au moins ça de fournis. 
 
-# breizhvideo-vuejs
+# Mardi 16h00
 
-## Project setup
-```
-npm install
-```
+plus d'énergie, mal de tête, trop d'erreur dans vue. J'essaye depuis 45mn d'intégrer le menu router, mais je crois que mon cerveau n'imprime plus très bien. 
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Je rends ma copie.
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
 
